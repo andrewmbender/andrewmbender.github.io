@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: _site
+
+#  resources:
+#    - "files/**"
+
+#  render: 
+#    - "*.qmd"
+#    - "*.md"
+#    - "blog/**/index.qmd"
+
+#freeze: true
+bibliography: files/bib/references.bib
+
+# Metadata stuff
+#pagetitle: "{{< meta title >}}"
+
+website:
+  title: "Andrew M Bender"
+  description: |
+    Andrew M Bender's personal website
+  # Andrew M Bennder is a ____ (fix above)
+  #site-url:  
+  #favicon:
+  repo-url: "https://github.com/andrewmbender/amb-quarto"
+  #open-graph: 
+  #image: "/files/profiles/..."
+  #locale: en_US
+
+  navbar:
+    pinned: true
+    #logo: files/profiles/logo.png
+
+  
+
+
+    right:
+      - text: "Home"
+        href: "/"
+      - text: "Blog"
+        href: "/blog/"
+      - icon: github
+        aria-label: github
+        href: https://github.com/andrewmbender
+  page-footer: |
+    sadasd
+    asdad
+
+format:
+  html:
+    theme: 
+      - simplex
+      - amb.scss
+    #css: styles.css
