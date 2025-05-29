@@ -11,7 +11,7 @@ project:
 #    - "blog/**/index.qmd"
 
 #freeze: true
-bibliography: files/bib/references.bib
+#bibliography: files/bib/references.bib
 
 # Metadata stuff
 #pagetitle: "{{< meta title >}}"
@@ -51,5 +51,5 @@ format:
   html:
     theme: 
       - simplex
-      - amb.scss
+      #- amb.scss
     #css: styles.css

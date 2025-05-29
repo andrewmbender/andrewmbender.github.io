@@ -2,7 +2,7 @@
 title: "Andrew M Bender"
 #description
 about:
-  image: files/profiles/profile.png
+  #image: files/profiles/profile.png
   template: jolla
 ---
 
