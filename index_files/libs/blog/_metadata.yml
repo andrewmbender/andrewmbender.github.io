@@ -1,0 +1,10 @@
+# Date format
+date-format: "MMMM D, YYYY"
+
+# Enable banner style title blocks
+#title-block-banner: true
+#title-block-banner-color: body
+
+# Default author
+#author: 
+#  - name: Andrew M Bender
