@@ -2,17 +2,31 @@
 title: "What is an Actuary?"
 date: "07/09/2025"
 description: |
-  Post 2 description placeholder 
+ My 10 Definitions of an Actuary 
 categories: 
-  - cat4
-  - cat5
+  Actuary
 #image: desk.png
 #image-alt: "My desk overcome with math papers"
 #fig-cap-location: bottom
 draft: false
 ---
 
+# 1) A clear communicator who puts decision-makers in the best position to succeed.
 
-# 1 Header
+# 2) Someone who explains complicated math, statistics, and finance to various audiences.
 
-Text
+# 3) Risk expert.
+
+# 4) An Actuary models uncertainty, but does not predict it.
+
+# 5) Actuaries are stakeholders in the Government.
+
+# 6) Actuaries manage large, complicated financial risks.
+
+# 7) Actuaries identify risks, then quantify them, then make decisions, and finally communicate about it in documentation.
+
+# 8) An Actuary is accreditted after completing a series of rigorous exams that require math, stat, finance, and predictive analytics.
+
+# 9) Life Actuaries have expertise in pension, life and health policies. Property/Casualty Actuaries handle general insurance, auto, P/C claims.
+
+# 10) Actuaries use Professionalism and work from an Actuarial Framework to solve problems: Define, Solve, Monitor Results. Iterative and repeatable.
