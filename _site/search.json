@@ -44,14 +44,14 @@
   {
     "objectID": "blog/sample-blog-entry-2/index.html",
     "href": "blog/sample-blog-entry-2/index.html",
-    "title": "Title Placeholder 2",
+    "title": "What is an Actuary?",
     "section": "",
     "text": "This is my second future blog post."
   },
   {
     "objectID": "blog/sample-blog-entry-2/index.html#header",
     "href": "blog/sample-blog-entry-2/index.html#header",
-    "title": "Title Placeholder 2",
+    "title": "What is an Actuary?",
     "section": "Header",
     "text": "Header\nText"
   },
@@ -60,6 +60,6 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nFebruary 22, 2025\n\n\nCredit Default Swap Soirées\n\n\n\n\nAugust 27, 2024\n\n\nTitle Placeholder 2\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nFebruary 22, 2025\n\n\nCredit Default Swap Soirées\n\n\n\n\nAugust 27, 2024\n\n\nWhat is an Actuary?\n\n\n\n\n\nNo matching items"
   }
 ]
